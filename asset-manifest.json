@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/sheep-api-spec-builder/static/js/main.6ec81363.js",
+    "static/js/453.112b8245.chunk.js": "/sheep-api-spec-builder/static/js/453.112b8245.chunk.js",
+    "index.html": "/sheep-api-spec-builder/index.html",
+    "main.6ec81363.js.map": "/sheep-api-spec-builder/static/js/main.6ec81363.js.map",
+    "453.112b8245.chunk.js.map": "/sheep-api-spec-builder/static/js/453.112b8245.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6ec81363.js"
+  ]
+}
