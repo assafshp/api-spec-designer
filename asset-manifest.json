@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/sheep-api-spec-builder/static/js/main.6ec81363.js",
-    "static/js/453.112b8245.chunk.js": "/sheep-api-spec-builder/static/js/453.112b8245.chunk.js",
-    "index.html": "/sheep-api-spec-builder/index.html",
-    "main.6ec81363.js.map": "/sheep-api-spec-builder/static/js/main.6ec81363.js.map",
-    "453.112b8245.chunk.js.map": "/sheep-api-spec-builder/static/js/453.112b8245.chunk.js.map"
+    "main.js": "/api-spec-designer/static/js/main.9283f41f.js",
+    "static/js/453.112b8245.chunk.js": "/api-spec-designer/static/js/453.112b8245.chunk.js",
+    "index.html": "/api-spec-designer/index.html",
+    "main.9283f41f.js.map": "/api-spec-designer/static/js/main.9283f41f.js.map",
+    "453.112b8245.chunk.js.map": "/api-spec-designer/static/js/453.112b8245.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.6ec81363.js"
+    "static/js/main.9283f41f.js"
   ]
 }
